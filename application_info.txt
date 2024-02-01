@@ -1,0 +1,17 @@
+[Çar May 24 15:35:05 TRT 2023][INFO] Initializing the database.
+[Çar May 24 15:35:05 TRT 2023][INFO] Gathering the users.
+[Çar May 24 15:35:05 TRT 2023][INFO] Gathering the comments.
+[Çar May 24 15:35:06 TRT 2023][INFO] Gathering the images
+[Çar May 24 15:35:06 TRT 2023][INFO] Application Started
+[Çar May 24 15:35:06 TRT 2023][INFO] Setting up the Login Page
+[Çar May 24 15:35:38 TRT 2023][INFO] Login SuccessUser = Ahmet123
+[Çar May 24 15:35:38 TRT 2023][INFO] Starting the Profile Page.
+[Çar May 24 15:35:38 TRT 2023][INFO] Displaying the images on the profile page.
+[Çar May 24 15:42:55 TRT 2023][INFO] Starting the discover page.
+[Çar May 24 15:42:55 TRT 2023][INFO] Adding the images to the discover page...
+[Çar May 24 15:43:02 TRT 2023][INFO] Starting the Profile Page.
+[Çar May 24 15:43:02 TRT 2023][INFO] Displaying the images on the profile page.
+[Çar May 24 15:43:04 TRT 2023][INFO] Starting the Image Page.
+[Çar May 24 15:43:04 TRT 2023][INFO] Displaying the comments.
+[Çar May 24 15:46:58 TRT 2023][INFO] Starting the discover page.
+[Çar May 24 15:46:58 TRT 2023][INFO] Adding the images to the discover page...
